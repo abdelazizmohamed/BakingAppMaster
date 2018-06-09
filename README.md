@@ -26,6 +26,9 @@ In this project you will:
 * Leverage a third-party library in your app.
 * Use Fragments to create a responsive design that works on phones and tablets.
 
+## View project
+https://www.portfoliobox.net/admin#/sweetrwcipes
+
 ## Rubric
 
 ### General App Usage
