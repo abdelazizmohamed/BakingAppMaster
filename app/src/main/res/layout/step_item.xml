@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:actionBarNavMode="tabs">
+
+    <TextView
+        android:id="@+id/step"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:padding="17dp"
+        android:background="#9b9da1"
+        android:textAllCaps="true"
+        android:text="Step"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="17sp" />
+
+</LinearLayout>
