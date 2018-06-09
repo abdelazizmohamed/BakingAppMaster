@@ -11,12 +11,6 @@ Android Baking App that will allow Udacity’s resident baker-in-chief, Miriam, 
 * Loading thumbnail from video using Glide
 * Delegate adapters
 
-## Screens
-![device-2017-06-23-154208](https://user-images.githubusercontent.com/3719141/27482544-95d07432-582a-11e7-966b-2b8debb0a269.png)
-![screenshot_2017-06-23-15-25-31-166_com vycius tasty_framed](https://user-images.githubusercontent.com/3719141/27482547-95d4ad7c-582a-11e7-8e28-41122ff9efd2.png)
-![screenshot_2017-06-23-15-26-20-723_com vycius tasty_framed](https://user-images.githubusercontent.com/3719141/27482545-95d2018a-582a-11e7-85c7-1bacc937e82d.png)
-![screenshot_2017-06-23-15-26-48-953_com vycius tasty_framed](https://user-images.githubusercontent.com/3719141/27482543-95cf0b60-582a-11e7-9988-5d037ab24947.png)
-![screenshot_2017-06-23-15-31-39-517_com miui home_framed](https://user-images.githubusercontent.com/3719141/27482546-95d2c7b4-582a-11e7-8438-11f58d933a4b.png)
 
 ## Project Overview
 You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
