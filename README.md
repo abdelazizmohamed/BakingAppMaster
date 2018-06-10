@@ -1,4 +1,5 @@
-# Udacity Baking App ### (Sweet Recipes)
+# Udacity Baking App 
+##(Sweet Recipes)
 
 [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=595381850de70500019e03ff&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/595381850de70500019e03ff/build/latest?branch=master)
 
