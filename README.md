@@ -25,7 +25,7 @@ In this project you will:
 * Use Fragments to create a responsive design that works on phones and tablets.
 
 ## View project
-https://www.portfoliobox.net/admin#/sweetrwcipes
+https://abdelaziz122.portfoliobox.net/sweetrwcipes
 
 ## Rubric
 
